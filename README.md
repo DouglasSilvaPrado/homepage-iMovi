@@ -5,16 +5,16 @@
 <p>Sistema desenvolvido com HTML, CSS, JQuery e Bootstrap<p>
 
 <p>Home</p>
-<img src=""/>
+<img src="IMOVI/fotos/home.PNG"/>
 <hr>
 <p>Projetos</p>
-<img src=""/>
+<img src="IMOVI/fotos/projetos.PNG"/>
 <hr>
 <p>Detalhes</p>
-<img src=""/>
+<img src="IMOVI/fotos/detalhes.PNG"/>
 <hr>
 <p>Rodape</p>
-<img src=""/>
+<img src="IMOVI/fotos/rodape.PNG"/>
 <hr>
 
 <h2>Contribuir</h2>
