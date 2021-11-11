@@ -2,7 +2,7 @@
 
 <p>Homepage de Imoveis https://imovi.netlify.app/<p>
 
-<p>Sistema desenvolvido com HTML, CSS, JQuery e Bootstrap<p>
+<p>Sistema desenvolvido com HTML, CSS e Bootstrap<p>
 
 <p>Home</p>
 <img src="IMOVI/fotos/home.PNG"/>
